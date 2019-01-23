@@ -4,303 +4,507 @@ Day 0:
   Backstage Pass: Quality 1, Sell In 20
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 17, Sell In 5
+  Premium Aged Brie: Quality 17, Sell In 40
+  Premium Backstage Pass: Quality 1, Sell In 20
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 17, Sell In 5
 
 Day 1:
   Aged Brie: Quality 18, Sell In 39
   Backstage Pass: Quality 2, Sell In 19
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 16, Sell In 4
+  Premium Aged Brie: Quality 19, Sell In 39
+  Premium Backstage Pass: Quality 3, Sell In 19
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 15, Sell In 4
 
 Day 2:
   Aged Brie: Quality 19, Sell In 38
   Backstage Pass: Quality 3, Sell In 18
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 15, Sell In 3
+  Premium Aged Brie: Quality 21, Sell In 38
+  Premium Backstage Pass: Quality 5, Sell In 18
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 13, Sell In 3
 
 Day 3:
   Aged Brie: Quality 20, Sell In 37
   Backstage Pass: Quality 4, Sell In 17
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 14, Sell In 2
+  Premium Aged Brie: Quality 23, Sell In 37
+  Premium Backstage Pass: Quality 7, Sell In 17
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 11, Sell In 2
 
 Day 4:
   Aged Brie: Quality 21, Sell In 36
   Backstage Pass: Quality 5, Sell In 16
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 13, Sell In 1
+  Premium Aged Brie: Quality 25, Sell In 36
+  Premium Backstage Pass: Quality 9, Sell In 16
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 9, Sell In 1
 
 Day 5:
   Aged Brie: Quality 22, Sell In 35
   Backstage Pass: Quality 6, Sell In 15
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 12, Sell In 0
+  Premium Aged Brie: Quality 27, Sell In 35
+  Premium Backstage Pass: Quality 11, Sell In 15
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 7, Sell In 0
 
 Day 6:
   Aged Brie: Quality 23, Sell In 34
   Backstage Pass: Quality 7, Sell In 14
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 10, Sell In -1
+  Premium Aged Brie: Quality 29, Sell In 34
+  Premium Backstage Pass: Quality 13, Sell In 14
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 3, Sell In -1
 
 Day 7:
   Aged Brie: Quality 24, Sell In 33
   Backstage Pass: Quality 8, Sell In 13
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 8, Sell In -2
+  Premium Aged Brie: Quality 31, Sell In 33
+  Premium Backstage Pass: Quality 15, Sell In 13
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -2
 
 Day 8:
   Aged Brie: Quality 25, Sell In 32
   Backstage Pass: Quality 9, Sell In 12
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 6, Sell In -3
+  Premium Aged Brie: Quality 33, Sell In 32
+  Premium Backstage Pass: Quality 17, Sell In 12
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -3
 
 Day 9:
   Aged Brie: Quality 26, Sell In 31
   Backstage Pass: Quality 10, Sell In 11
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 4, Sell In -4
+  Premium Aged Brie: Quality 35, Sell In 31
+  Premium Backstage Pass: Quality 19, Sell In 11
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -4
 
 Day 10:
   Aged Brie: Quality 27, Sell In 30
   Backstage Pass: Quality 12, Sell In 10
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 2, Sell In -5
+  Premium Aged Brie: Quality 37, Sell In 30
+  Premium Backstage Pass: Quality 23, Sell In 10
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -5
 
 Day 11:
   Aged Brie: Quality 28, Sell In 29
   Backstage Pass: Quality 14, Sell In 9
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -6
+  Premium Aged Brie: Quality 39, Sell In 29
+  Premium Backstage Pass: Quality 27, Sell In 9
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -6
 
 Day 12:
   Aged Brie: Quality 29, Sell In 28
   Backstage Pass: Quality 16, Sell In 8
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -7
+  Premium Aged Brie: Quality 41, Sell In 28
+  Premium Backstage Pass: Quality 31, Sell In 8
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -7
 
 Day 13:
   Aged Brie: Quality 30, Sell In 27
   Backstage Pass: Quality 18, Sell In 7
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -8
+  Premium Aged Brie: Quality 43, Sell In 27
+  Premium Backstage Pass: Quality 35, Sell In 7
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -8
 
 Day 14:
   Aged Brie: Quality 31, Sell In 26
   Backstage Pass: Quality 20, Sell In 6
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -9
+  Premium Aged Brie: Quality 45, Sell In 26
+  Premium Backstage Pass: Quality 39, Sell In 6
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -9
 
 Day 15:
   Aged Brie: Quality 32, Sell In 25
   Backstage Pass: Quality 23, Sell In 5
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -10
+  Premium Aged Brie: Quality 47, Sell In 25
+  Premium Backstage Pass: Quality 45, Sell In 5
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -10
 
 Day 16:
   Aged Brie: Quality 33, Sell In 24
   Backstage Pass: Quality 26, Sell In 4
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -11
+  Premium Aged Brie: Quality 49, Sell In 24
+  Premium Backstage Pass: Quality 50, Sell In 4
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -11
 
 Day 17:
   Aged Brie: Quality 34, Sell In 23
   Backstage Pass: Quality 29, Sell In 3
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -12
+  Premium Aged Brie: Quality 50, Sell In 23
+  Premium Backstage Pass: Quality 50, Sell In 3
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -12
 
 Day 18:
   Aged Brie: Quality 35, Sell In 22
   Backstage Pass: Quality 32, Sell In 2
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -13
+  Premium Aged Brie: Quality 50, Sell In 22
+  Premium Backstage Pass: Quality 50, Sell In 2
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -13
 
 Day 19:
   Aged Brie: Quality 36, Sell In 21
   Backstage Pass: Quality 35, Sell In 1
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -14
+  Premium Aged Brie: Quality 50, Sell In 21
+  Premium Backstage Pass: Quality 50, Sell In 1
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -14
 
 Day 20:
   Aged Brie: Quality 37, Sell In 20
   Backstage Pass: Quality 38, Sell In 0
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -15
+  Premium Aged Brie: Quality 50, Sell In 20
+  Premium Backstage Pass: Quality 50, Sell In 0
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -15
 
 Day 21:
   Aged Brie: Quality 38, Sell In 19
   Backstage Pass: Quality 0, Sell In -1
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -16
+  Premium Aged Brie: Quality 50, Sell In 19
+  Premium Backstage Pass: Quality 0, Sell In -1
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -16
 
 Day 22:
   Aged Brie: Quality 39, Sell In 18
   Backstage Pass: Quality 0, Sell In -2
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -17
+  Premium Aged Brie: Quality 50, Sell In 18
+  Premium Backstage Pass: Quality 0, Sell In -2
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -17
 
 Day 23:
   Aged Brie: Quality 40, Sell In 17
   Backstage Pass: Quality 0, Sell In -3
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -18
+  Premium Aged Brie: Quality 50, Sell In 17
+  Premium Backstage Pass: Quality 0, Sell In -3
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -18
 
 Day 24:
   Aged Brie: Quality 41, Sell In 16
   Backstage Pass: Quality 0, Sell In -4
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -19
+  Premium Aged Brie: Quality 50, Sell In 16
+  Premium Backstage Pass: Quality 0, Sell In -4
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -19
 
 Day 25:
   Aged Brie: Quality 42, Sell In 15
   Backstage Pass: Quality 0, Sell In -5
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -20
+  Premium Aged Brie: Quality 50, Sell In 15
+  Premium Backstage Pass: Quality 0, Sell In -5
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -20
 
 Day 26:
   Aged Brie: Quality 43, Sell In 14
   Backstage Pass: Quality 0, Sell In -6
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -21
+  Premium Aged Brie: Quality 50, Sell In 14
+  Premium Backstage Pass: Quality 0, Sell In -6
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -21
 
 Day 27:
   Aged Brie: Quality 44, Sell In 13
   Backstage Pass: Quality 0, Sell In -7
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -22
+  Premium Aged Brie: Quality 50, Sell In 13
+  Premium Backstage Pass: Quality 0, Sell In -7
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -22
 
 Day 28:
   Aged Brie: Quality 45, Sell In 12
   Backstage Pass: Quality 0, Sell In -8
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -23
+  Premium Aged Brie: Quality 50, Sell In 12
+  Premium Backstage Pass: Quality 0, Sell In -8
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -23
 
 Day 29:
   Aged Brie: Quality 46, Sell In 11
   Backstage Pass: Quality 0, Sell In -9
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -24
+  Premium Aged Brie: Quality 50, Sell In 11
+  Premium Backstage Pass: Quality 0, Sell In -9
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -24
 
 Day 30:
   Aged Brie: Quality 47, Sell In 10
   Backstage Pass: Quality 0, Sell In -10
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -25
+  Premium Aged Brie: Quality 50, Sell In 10
+  Premium Backstage Pass: Quality 0, Sell In -10
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -25
 
 Day 31:
   Aged Brie: Quality 48, Sell In 9
   Backstage Pass: Quality 0, Sell In -11
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -26
+  Premium Aged Brie: Quality 50, Sell In 9
+  Premium Backstage Pass: Quality 0, Sell In -11
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -26
 
 Day 32:
   Aged Brie: Quality 49, Sell In 8
   Backstage Pass: Quality 0, Sell In -12
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -27
+  Premium Aged Brie: Quality 50, Sell In 8
+  Premium Backstage Pass: Quality 0, Sell In -12
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -27
 
 Day 33:
   Aged Brie: Quality 50, Sell In 7
   Backstage Pass: Quality 0, Sell In -13
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -28
+  Premium Aged Brie: Quality 50, Sell In 7
+  Premium Backstage Pass: Quality 0, Sell In -13
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -28
 
 Day 34:
   Aged Brie: Quality 50, Sell In 6
   Backstage Pass: Quality 0, Sell In -14
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -29
+  Premium Aged Brie: Quality 50, Sell In 6
+  Premium Backstage Pass: Quality 0, Sell In -14
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -29
 
 Day 35:
   Aged Brie: Quality 50, Sell In 5
   Backstage Pass: Quality 0, Sell In -15
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -30
+  Premium Aged Brie: Quality 50, Sell In 5
+  Premium Backstage Pass: Quality 0, Sell In -15
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -30
 
 Day 36:
   Aged Brie: Quality 50, Sell In 4
   Backstage Pass: Quality 0, Sell In -16
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -31
+  Premium Aged Brie: Quality 50, Sell In 4
+  Premium Backstage Pass: Quality 0, Sell In -16
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -31
 
 Day 37:
   Aged Brie: Quality 50, Sell In 3
   Backstage Pass: Quality 0, Sell In -17
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -32
+  Premium Aged Brie: Quality 50, Sell In 3
+  Premium Backstage Pass: Quality 0, Sell In -17
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -32
 
 Day 38:
   Aged Brie: Quality 50, Sell In 2
   Backstage Pass: Quality 0, Sell In -18
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -33
+  Premium Aged Brie: Quality 50, Sell In 2
+  Premium Backstage Pass: Quality 0, Sell In -18
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -33
 
 Day 39:
   Aged Brie: Quality 50, Sell In 1
   Backstage Pass: Quality 0, Sell In -19
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -34
+  Premium Aged Brie: Quality 50, Sell In 1
+  Premium Backstage Pass: Quality 0, Sell In -19
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -34
 
 Day 40:
   Aged Brie: Quality 50, Sell In 0
   Backstage Pass: Quality 0, Sell In -20
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -35
+  Premium Aged Brie: Quality 50, Sell In 0
+  Premium Backstage Pass: Quality 0, Sell In -20
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -35
 
 Day 41:
   Aged Brie: Quality 50, Sell In -1
   Backstage Pass: Quality 0, Sell In -21
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -36
+  Premium Aged Brie: Quality 50, Sell In -1
+  Premium Backstage Pass: Quality 0, Sell In -21
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -36
 
 Day 42:
   Aged Brie: Quality 50, Sell In -2
   Backstage Pass: Quality 0, Sell In -22
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -37
+  Premium Aged Brie: Quality 50, Sell In -2
+  Premium Backstage Pass: Quality 0, Sell In -22
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -37
 
 Day 43:
   Aged Brie: Quality 50, Sell In -3
   Backstage Pass: Quality 0, Sell In -23
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -38
+  Premium Aged Brie: Quality 50, Sell In -3
+  Premium Backstage Pass: Quality 0, Sell In -23
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -38
 
 Day 44:
   Aged Brie: Quality 50, Sell In -4
   Backstage Pass: Quality 0, Sell In -24
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -39
+  Premium Aged Brie: Quality 50, Sell In -4
+  Premium Backstage Pass: Quality 0, Sell In -24
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -39
 
 Day 45:
   Aged Brie: Quality 50, Sell In -5
   Backstage Pass: Quality 0, Sell In -25
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -40
+  Premium Aged Brie: Quality 50, Sell In -5
+  Premium Backstage Pass: Quality 0, Sell In -25
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -40
 
 Day 46:
   Aged Brie: Quality 50, Sell In -6
   Backstage Pass: Quality 0, Sell In -26
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -41
+  Premium Aged Brie: Quality 50, Sell In -6
+  Premium Backstage Pass: Quality 0, Sell In -26
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -41
 
 Day 47:
   Aged Brie: Quality 50, Sell In -7
   Backstage Pass: Quality 0, Sell In -27
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -42
+  Premium Aged Brie: Quality 50, Sell In -7
+  Premium Backstage Pass: Quality 0, Sell In -27
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -42
 
 Day 48:
   Aged Brie: Quality 50, Sell In -8
   Backstage Pass: Quality 0, Sell In -28
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -43
+  Premium Aged Brie: Quality 50, Sell In -8
+  Premium Backstage Pass: Quality 0, Sell In -28
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -43
 
 Day 49:
   Aged Brie: Quality 50, Sell In -9
   Backstage Pass: Quality 0, Sell In -29
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -44
+  Premium Aged Brie: Quality 50, Sell In -9
+  Premium Backstage Pass: Quality 0, Sell In -29
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -44
 
 Day 50:
   Aged Brie: Quality 50, Sell In -10
   Backstage Pass: Quality 0, Sell In -30
   Gold Coin: Quality 80, Sell In 5
   Some other item: Quality 0, Sell In -45
+  Premium Aged Brie: Quality 50, Sell In -10
+  Premium Backstage Pass: Quality 0, Sell In -30
+  Premium Gold Coin: Quality 80, Sell In 5
+  Some other Premium item: Quality 0, Sell In -45

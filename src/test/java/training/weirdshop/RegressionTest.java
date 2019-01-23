@@ -11,7 +11,11 @@ public class RegressionTest {
                 new Item("Aged Brie", 40, 17),
                 new Item ("Backstage Pass", 20, 1),
                 new Item ("Gold Coin", 5, 80),
-                new Item ("Some other item", 5, 17)
+                new Item ("Some other item", 5, 17),
+                new Item("Premium Aged Brie", 40, 17),
+                new Item ("Premium Backstage Pass", 20, 1),
+                new Item ("Premium Gold Coin", 5, 80),
+                new Item ("Some other Premium item", 5, 17)
         };
 
         StringBuilder sb = new StringBuilder();
